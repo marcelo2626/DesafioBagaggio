@@ -1,0 +1,32 @@
+a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+nav {
+
+    justify-content: space-around;
+    align-items: left;
+    background: black;
+    height: 8vh;
+    overflow: hidden;
+    width: 100%;
+}
+nav a{
+    float: left;
+    display: block;
+}
+
+body {
+    color: white;
+    background-color: #353535;
+    margin: 0;
+    box-sizing: border-box;
+    height: 500px;
+  }
+
+  .nav-buttons {
+    display: flex;
+    justify-content: flex-end;
+  }
